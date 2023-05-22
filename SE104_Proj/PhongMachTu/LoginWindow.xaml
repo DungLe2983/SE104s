@@ -1,0 +1,110 @@
+﻿<Window x:Class="PhongMachTu.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhongMachTu"
+        mc:Ignorable="d"
+        Title="Đăng Nhập" Height="800" Width="1400" WindowStartupLocation="CenterScreen" >
+    
+<Grid >
+       
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        
+        <Border Grid.Column="0" Background="#6383FA">
+            <Image x:Name="imgLogin"
+                Source="Resources/LoginImg.png" 
+                Stretch="Uniform"></Image>
+        </Border>
+         <Frame x:Name="LoginFrame" />
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Image Grid.Row="0"
+                   x:Name="imgLogo"
+                   Source="resources/logo.png" 
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Top"
+                   Margin="0,50,0,0" 
+                   Height="200" Width="200"/>
+
+            <Label Grid.Row="1" 
+                   x:Name="lbHello"
+                   Content="Hello! Welcome Back"
+                   HorizontalAlignment="Center" 
+                   FontSize="32" 
+                   Foreground="#7D7C91"/>
+
+            <Label 
+                   x:Name="lbUserName"
+                   Grid.Row="2"
+                   Content="Username:"  
+                   Margin="50,0,50,0"
+                   FontSize="27"
+                   Foreground="#565772"  />
+            <TextBox Grid.Row="3" 
+                     x:Name="txtUsername" 
+                     FontSize="27"
+                     Margin="50,0,50,0"
+                     Height="48" />
+
+            <Label Grid.Row="4" 
+                   x:Name="lbPassWord"
+                   Content="Password:" 
+                   Margin="50,25,50,0"
+                   FontSize="27"
+                   Foreground="#565772"/>
+            <PasswordBox Grid.Row="5" 
+                         x:Name="txtPassword" 
+                         FontSize="27"
+                         Margin="50,0,50,25"
+                         Height="48"/>
+
+
+            <!--<TextBlock 
+                x:Name=""
+                Grid.Row="5"
+                FontSize="27"
+                Foreground="#6383FA" 
+                HorizontalAlignment="Left"
+                Margin="452,73,0,0" Grid.RowSpan="2" Height="36" VerticalAlignment="Top">
+                <Hyperlink NavigateUri="ForgotPassPage.xaml"
+                     >Forgot Password
+                </Hyperlink>
+                
+            </TextBlock>-->
+            <Button Grid.Row="7"
+                    x:Name="btnLogin"
+                    Content="Login" 
+                    Margin="204,50,204,0"
+                    Background="#6788FF"
+                    Foreground="White"
+                    Height="58" Width="292" 
+                    FontSize="32" Click="Button_Click" VerticalAlignment="Top"/>
+            
+            <!--Click="Login_Click"-->
+            <Button Grid.Row="7"
+                    x:Name="btnForgot"
+                    Content="Forgot" 
+                    Margin="204,121,204,0"
+                    Background="#6788FF"
+                    Foreground="White"
+                    Height="58" Width="292" 
+                    FontSize="32" Click="btnForgot_Click" VerticalAlignment="Top"/>
+        </Grid>
+        
+    </Grid>
+    
+</Window>

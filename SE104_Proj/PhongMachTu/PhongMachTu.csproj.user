@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="LoginPages\ForgotPassPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Appointments\appointmentsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Appointments\completeappointmentUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Appointments\newappointmentsUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\billingPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\doctorPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\medicinePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\reportPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\settingPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="LoginPages\ForgotPassPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Appointments\appointmentsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Appointments\completeappointmentUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Appointments\newappointmentsUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\billingPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\doctorPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\medicinePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\reportPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\settingPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,213 @@
+﻿<Window x:Class="PhongMachTu.Dashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhongMachTu"
+        mc:Ignorable="d"
+        Title="Quản lý phòng mạch" Height="800" Width="1440" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="229" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" Background="#F5F6FA">
+            <StackPanel>
+                <StackPanel.Resources>
+                    <Style TargetType="Button">
+                        <Setter Property="Margin" Value="0"/>
+                        <Setter Property="FontFamily" Value="Sora"/>
+                        <Setter Property="FontSize" Value="17"/>
+                        <Setter Property="Foreground" Value="#969795CC"/>
+                        <Setter Property="Background" Value="Transparent"/>
+                        <Setter Property="BorderThickness" Value="0"/>
+                        <Setter Property="Height" Value="50"/>
+                        <Setter Property="Width" Value="198"/>
+                    </Style>
+                </StackPanel.Resources>
+
+                <Image Source="Resources/logo.png" Stretch="None"
+                       HorizontalAlignment="Center" Margin="25 0 25 25"></Image>
+                <!--Nút dashboard-->
+                <Button x:Name="btnDashboard"
+                        Click="btnDashboard_Click">
+                    <Grid Width="178" Height="30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="Resources/dashboardIcon.png"
+                               Width="16" Height="16"
+                               HorizontalAlignment="Center"
+                               Grid.Column="0"/>
+
+                        <TextBlock Text="Dashboard" 
+                                   Grid.Column="1"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   Margin="10 0 0 0"/>
+                    </Grid>
+                </Button>
+
+                <!--nút Patients-->
+                <Button x:Name="btnPatients"
+                        Click="btnPatients_Click">
+                    <Grid Width="178" Height="30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="Resources/patientsIcon.png"
+                               Width="16" Height="16"
+                               HorizontalAlignment="Center"
+                               Grid.Column="0"/>
+
+                        <TextBlock Text="Patients" 
+                                   Grid.Column="1"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   Margin="10 0 0 0"/>
+                    </Grid>
+                </Button>
+
+                <!--nút Appointments-->
+                <Button x:Name="btnAppointment"
+                        Click="btnAppointment_Click">
+                    <Grid Width="178" Height="30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="Resources/appointmentsIcon.png"
+                               Width="16" Height="16"
+                               HorizontalAlignment="Center"
+                               Grid.Column="0"/>
+
+                        <TextBlock Text="Appointments" 
+                                   Grid.Column="1"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   Margin="10 0 0 0"/>
+                    </Grid>
+                </Button>
+
+                <!--nút Doctor-->
+                <Button x:Name="btnDoctor"
+                        Click="btnDoctor_Click">
+                    <Grid Width="178" Height="30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="Resources\doctorIcon.png"
+                               Width="16" Height="16"
+                               HorizontalAlignment="Center"
+                               Grid.Column="0"/>
+
+                        <TextBlock Text="Doctor" 
+                                   Grid.Column="1"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   Margin="10 0 0 0"/>
+                    </Grid>
+                </Button>
+
+                <!--nút Billings-->
+                <Button x:Name="btnBilling"
+                        Click="btnBilling_Click">
+                    <Grid Width="178" Height="30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="Resources/billingsIcon.png"
+                               Width="16" Height="16"
+                               HorizontalAlignment="Center"
+                               Grid.Column="0"/>
+
+                        <TextBlock Text="Billings" 
+                                   Grid.Column="1"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   Margin="10 0 0 0"/>
+                    </Grid>
+                </Button>
+
+                <!--nút Medicine inventory-->
+                <Button x:Name="btnMedicine"
+                        Click="btnMedicine_Click">
+                    <Grid Width="178" Height="30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="Resources/medicineIcon.png"
+                               Width="16" Height="16"
+                               HorizontalAlignment="Center"
+                               Grid.Column="0"/>
+
+                        <TextBlock Text="Medicine inventory" 
+                                   Grid.Column="1"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   Margin="10 0 0 0"/>
+                    </Grid>
+                </Button>
+
+                <!--nút Settings-->
+                <Button x:Name="btnSetting"
+                        Click="btnSetting_Click">
+                    <Grid Width="178" Height="30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="Resources/settingsIcon.png"
+                               Width="16" Height="16"
+                               HorizontalAlignment="Center"
+                               Grid.Column="0"/>
+
+                        <TextBlock Text="Settings" 
+                                   Grid.Column="1"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   Margin="10 0 0 0"/>
+                    </Grid>
+                </Button>
+
+                <!--nút Report-->
+                <Button x:Name="btnReport"
+                        Click="btnReport_Click">
+                    <Grid Width="178" Height="30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="Resources/reportIcon.png"
+                               Width="16" Height="16"
+                               HorizontalAlignment="Center"
+                               Grid.Column="0"/>
+
+                        <TextBlock Text="Report" 
+                                   Grid.Column="1"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   Margin="10 0 0 0"/>
+                    </Grid>
+                </Button>
+
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Column="1" Background="#F1F8FF">
+            
+
+     
+            <Frame 
+                   Name="fContainer"
+                  />
+        </Grid>
+        
+    </Grid>
+</Window>

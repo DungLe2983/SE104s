@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\appointmentsIcon.png" />
+    <None Remove="Resources\billingsIcon.png" />
+    <None Remove="Resources\dashboardIcon.png" />
+    <None Remove="Resources\doctorIcon.png" />
+    <None Remove="Resources\icon.png" />
+    <None Remove="Resources\icons8_search_100px.png" />
+    <None Remove="Resources\LoginImg.png" />
+    <None Remove="Resources\logo.png" />
+    <None Remove="Resources\medicineIcon.png" />
+    <None Remove="Resources\patientsIcon.png" />
+    <None Remove="Resources\phoneImg.png" />
+    <None Remove="Resources\reportIcon.png" />
+    <None Remove="Resources\search.jpg" />
+    <None Remove="Resources\settingsIcon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\phoneImg.png" />
+    <Resource Include="Resources\search.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\appointmentsIcon.png" />
+    <Resource Include="Resources\billingsIcon.png" />
+    <Resource Include="Resources\dashboardIcon.png" />
+    <Resource Include="Resources\doctorIcon.png" />
+    <Resource Include="Resources\icon.png" />
+    <Resource Include="Resources\LoginImg.png" />
+    <Resource Include="Resources\logo.png" />
+    <Resource Include="Resources\medicineIcon.png" />
+    <Resource Include="Resources\patientsIcon.png" />
+    <Resource Include="Resources\reportIcon.png" />
+    <Resource Include="Resources\settingsIcon.png" />
+  </ItemGroup>
+
+</Project>

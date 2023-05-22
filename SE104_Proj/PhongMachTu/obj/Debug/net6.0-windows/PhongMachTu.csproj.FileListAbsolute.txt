@@ -1,0 +1,104 @@
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.csproj.AssemblyReference.cache
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Dashboard.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginPages\PageGuiMa.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginPages\PageQuenMK.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginWindow.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\dashBoardPage.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\patientsPage.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\App.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu_MarkupCompile.cache
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu_MarkupCompile.lref
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\PhongMachTu.exe
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\PhongMachTu.deps.json
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\PhongMachTu.runtimeconfig.json
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\PhongMachTu.dll
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\PhongMachTu.pdb
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Dashboard.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginPages\PageGuiMa.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginPages\PageQuenMK.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginWindow.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\dashBoardPage.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\patientsPage.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.g.resources
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.AssemblyInfoInputs.cache
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.AssemblyInfo.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.csproj.CoreCompileInputs.cache
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.dll
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\refint\PhongMachTu.dll
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.pdb
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.genruntimeconfig.cache
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\ref\PhongMachTu.dll
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\billingPage.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\doctorPage.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\medicinePage.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\reportPage.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\settingPage.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\billingPage.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\doctorPage.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\medicinePage.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\reportPage.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\settingPage.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\App.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.csproj.CopyComplete
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\appointmentsPage.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\appointmentsPage.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\completeappointmentUC.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\newappointmentsUC.g.cs
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\completeappointmentUC.baml
+D:\Exercises\Nhap mon\project\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\newappointmentsUC.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\PhongMachTu.exe
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\PhongMachTu.deps.json
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\PhongMachTu.runtimeconfig.json
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\PhongMachTu.dll
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\PhongMachTu.pdb
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Dashboard.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginPages\PageGuiMa.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginWindow.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\appointmentsPage.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\completeappointmentUC.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\newappointmentsUC.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\billingPage.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\dashBoardPage.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\doctorPage.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\medicinePage.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\patientsPage.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\reportPage.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\settingPage.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu_MarkupCompile.cache
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu_MarkupCompile.lref
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\App.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Dashboard.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginPages\PageGuiMa.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginWindow.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\appointmentsPage.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\completeappointmentUC.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\Appointments\newappointmentsUC.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\billingPage.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\dashBoardPage.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\doctorPage.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\medicinePage.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\patientsPage.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\reportPage.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\Pages\settingPage.baml
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.g.resources
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.csproj.CopyComplete
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.dll
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\refint\PhongMachTu.dll
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.pdb
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\PhongMachTu.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\ref\PhongMachTu.dll
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginPages\ForgotPassPage.g.cs
+C:\Users\lenovo\Desktop\LTTQ\SE104_Proj\SE104_Proj\PhongMachTu\obj\Debug\net6.0-windows\LoginPages\ForgotPassPage.baml
