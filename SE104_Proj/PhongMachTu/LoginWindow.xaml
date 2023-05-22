@@ -42,7 +42,7 @@
 
             <Label Grid.Row="1" 
                    x:Name="lbHello"
-                   Content="Hello!! Welcome Back"
+                   Content="Hello! Welcome Back"
                    HorizontalAlignment="Center" 
                    FontSize="32" 
                    Foreground="#7D7C91"/>
