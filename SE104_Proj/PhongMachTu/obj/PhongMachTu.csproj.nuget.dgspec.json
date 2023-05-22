@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\LTTQ\\SE104_Proj\\SE104_Proj\\PhongMachTu\\PhongMachTu.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\SE101-Modeling\\SE104s\\SE104_Proj\\PhongMachTu\\PhongMachTu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\LTTQ\\SE104_Proj\\SE104_Proj\\PhongMachTu\\PhongMachTu.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\SE101-Modeling\\SE104s\\SE104_Proj\\PhongMachTu\\PhongMachTu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\LTTQ\\SE104_Proj\\SE104_Proj\\PhongMachTu\\PhongMachTu.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\SE101-Modeling\\SE104s\\SE104_Proj\\PhongMachTu\\PhongMachTu.csproj",
         "projectName": "PhongMachTu",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\LTTQ\\SE104_Proj\\SE104_Proj\\PhongMachTu\\PhongMachTu.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\SE101-Modeling\\SE104s\\SE104_Proj\\PhongMachTu\\PhongMachTu.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\LTTQ\\SE104_Proj\\SE104_Proj\\PhongMachTu\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\SE101-Modeling\\SE104s\\SE104_Proj\\PhongMachTu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
